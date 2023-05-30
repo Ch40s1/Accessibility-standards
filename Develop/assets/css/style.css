@@ -4,52 +4,45 @@
     margin: 0;
 }
 
+/* This css pertains to the header with the paragraph element also in here*/
 body {
     background-color: #d9dcd6;
 }
-
 nav {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
-nav > h1 {
+h1 {
     display: inline-block;
     font-size: 48px;
 }
-
-nav > h1 .seo {
+span {
     color: #d9dcd6;
 }
-
-nav > div {
-    padding-top: 15px;
+ul {
+    padding-top: 20px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
-}
-
-nav div ul {
     list-style-type: none;
 }
-
-nav > div > ul > li {
+nav > ul > li {
     display: inline-block;
     margin-left: 25px;
 }
-
 a {
     color: #ffffff;
     text-decoration: none;
 }
-
 p {
     font-size: 16px;
 }
 
+
+/* the rest off the css is for the body elements*/
 .cover-image {
     height: 800px;
     width: 100%;
@@ -69,13 +62,13 @@ p {
     margin-left: 25px;
 }
 
-.content {
+.main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {
+.side-bar {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -130,6 +123,7 @@ h3 {
     font-size: 36px;
 }
 
+/* the footer section. */
 footer {
     padding: 30px;
     clear: both;
