@@ -16,9 +16,7 @@ To contribute
 # Usage
 The goal is to make the code better. Add or Delete code for the purpose of making it more readable for both the user and programmer. 
 
-```md
-    ![Website](./Develop/assets/images/Screenshot%202023-05-30%20at%206.36.13%20PM.png)
-```
+  ![Website](./Develop/assets/images/Screenshot%202023-05-30%20at%206.36.13%20PM.png)
 
 # Credits
 MDN web docs:
