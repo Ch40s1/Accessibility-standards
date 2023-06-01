@@ -5,6 +5,7 @@ The web shouldn't just be for programmers. This project is made to showcase HTML
 * [Installation](#installation)
 * [Usage](#usage)
 * [Credits](#Credits)
+* [Collaborators](#collaborators)
 * [License](#license)
 * [features](#features)
 
@@ -29,8 +30,11 @@ The goal is to make the code better. Add or Delete code for the purpose of makin
 MDN web docs:
 https://developer.mozilla.org/en-US/docs/Learn
 
-## License
+## Collaborators
 N/A
+
+## License
+MIT license
 
 ### Features
 Made with HTML and CSS
